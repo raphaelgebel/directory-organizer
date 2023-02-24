@@ -25,6 +25,7 @@ __Use case:__
     - create directories that are differentiated by date and internally organized by file type
 
 __How to use:__
+
   Step 1: Run the file 'main.py'
 
   Step 2: Enter the directory you want to organize.
