@@ -4,6 +4,7 @@
   - organizes a specified directory automatically
   - can organize the directory by file type (images, videos, music, documents, others)
   - can organize the directory by modification date (in terms of year and month)
+  - has a GUI
 
 ## Use case
   - you can use this program to organize your directories and folders by file type or modification date
@@ -17,3 +18,7 @@
   Step 2: Select the criterion according to which the directory should be organized.
   
   Done: The directory is now organized.
+  
+## Built with
+  - Python
+  - tkinter (for the GUI)
