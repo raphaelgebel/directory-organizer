@@ -13,5 +13,7 @@
 
 ## How to use
   Step 1: Enter the directory you want to organize.
+  
   Step 2: Select the criterion according to which the directory should be organized.
+  
   Done: The directory is now organized.
